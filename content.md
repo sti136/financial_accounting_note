@@ -1,3 +1,3 @@
 ## Finanical accounting course
 
-1.
+1. introduction of financial accounting
