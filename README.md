@@ -1,0 +1,1 @@
+This project is to record the learning note of the financial accounting,it is offered by coursera. I am writing it with reference to two accounting courses.
